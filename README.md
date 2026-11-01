@@ -1,25 +1,44 @@
-### Olá, sejam bem vindes  👋
 
 
+# Olá! Sou Gleiciane Santos 👋
 
-Me chamo Gleiciane, mas pode me chamar de "Gleice/Gle"
+### Desenvolvedora Full Stack | Experiência com IA e Automação de Processos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Euagle&show_icons=true&theme=gruvbox)
+Sou apaixonada por tecnologia, desenvolvimento de software e inovação. Tenho experiência com desenvolvimento web e também tive a oportunidade de atuar com Inteligência Artificial e automação de processos durante meu estágio.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Euagle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Gosto de aprender novas tecnologias, explorar soluções e utilizar a programação para otimizar processos e resolver problemas reais.
 
+### 💻 Tecnologias e conhecimentos
 
+**Desenvolvimento Web:**
+- JavaScript
+- HTML5
+- CSS3
+- React
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"></code>
-<code><img height="20" alt="vs code" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"></code>
-<code><img height="20" alt="github" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"></code>
-<code><img height="20" alt="figma" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg"></code>
+**Experiência e contato com:**
+- Inteligência Artificial
+- Automação de processos
+- Soluções com IA
 
+**Tecnologias em aprendizado:**
+- Python
+- SQL
+- APIs REST
+- Git e GitHub
 
+### 🎯 Objetivo profissional
 
+Busco ampliar meus conhecimentos em tecnologia e desenvolver soluções que integrem programação, Inteligência Artificial e automação, contribuindo para a criação de processos mais eficientes e inteligentes.
 
+### 📚 Projetos e aprendizado
+
+Neste perfil compartilho meus projetos, experiências práticas e minha evolução no desenvolvimento de software.
+
+Estou sempre aberta a novos desafios e oportunidades de aprendizado! 🚀
+
+### 📫 Contato
+
+- **E-mail:** gleicework4@gmail.com
+- **GitHub:** [@Euagle](https://github.com/Euagle)
 
